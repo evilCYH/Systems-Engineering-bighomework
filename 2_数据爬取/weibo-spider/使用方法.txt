@@ -1,0 +1,2 @@
+#需要安装好Python的scrapy框架
+scrapy crawl search -s JOBDIR=crawls/search
