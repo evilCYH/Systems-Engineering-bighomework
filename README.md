@@ -7,4 +7,4 @@
 得到了三种共享单车的选择序列
 
 ## 语言
-Python
+Jupyter & Python
